@@ -1,2 +1,7 @@
 # banking-ms-config
-This repository has the application configuration files for the banking microservices that can found on the "microservices" project.
+This project contains the application files for the following microservices:
+- Accounts
+- Cards
+- Loans
+
+All of them have the default, QA and Production profiles.
