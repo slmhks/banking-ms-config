@@ -3,8 +3,8 @@ build:
 accounts:
   message: "Welcome to the Eazy Bank APIs related to production environment!"
   contactDetails:
-    name: "Danny Frozinone - Product Owner"
-    email: "danny.frozinone@test3.com"
+    name: "Tonny Vergara - Product Owner"
+    email: "tonny.vergara@test3.com"
   onCallSupport:
-    - (111)111-2227
-    - (111)111-2225
+    - (111)111-2228
+    - (111)111-2229
