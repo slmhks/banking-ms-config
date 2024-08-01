@@ -1,7 +1,7 @@
 build:
   version: "1.0.1"
 loans:
-  message: "Hey, welcome to Eazy Bank Loans APIs related to production environment!"
+  message: "Hey, welcome to Eazy Bank Loans APIs related to Production Environment!"
   contactDetails:
     name: "Herbert Lerner - Product Owner"
     email: "herbert.lerner@test3.com"

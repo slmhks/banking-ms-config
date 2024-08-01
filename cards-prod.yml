@@ -1,7 +1,7 @@
 build:
   version: "1.0.2"
 cards:
-  message: "Hey, welcome to Eazy Bank Cards APIs related to production environment!"
+  message: "Hey, welcome to Eazy Bank Cards APIs related to Production Environment!"
   contactDetails:
     name: "Lito Genner - Product Owner for Cards"
     email: "{cipher}6ceed51723da4797c27c76cbf1bb450bf5522b60d258795393b1ed17b764ce6cd146dce0cc02db201e3b13ff36fae1ad"
