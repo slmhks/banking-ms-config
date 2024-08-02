@@ -1,10 +1,10 @@
 build:
-  version: "1.0.1"
+  version: "1.0.3"
 loans:
   message: "Hey, welcome to Eazy Bank Loans APIs related to Production Environment!"
   contactDetails:
     name: "Herbert Lerner - Product Owner"
-    email: "herbert.lerner@test3.com"
+    email: "herbert.lerner@test4.com"
   onCallSupport:
     - (333)333-1113
     - (333)333-1114

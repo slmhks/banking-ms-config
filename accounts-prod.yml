@@ -4,7 +4,7 @@ accounts:
   message: "Hey, welcome to Eazy Bank Accounts APIs related to Production Environment!"
   contactDetails:
     name: "Romeo Pair - Product Owner"
-    email: "{cipher}4d32a2c245045d7ae9829c7725f032abcc7b268a260d3b840c7fc965f0eed49f485beb863314de34e3d4f3d57339b628"
+    email: "{cipher}bdf47102a533fc63eda770e22bca840cc6937dc163e0b52d244dbbcbfcdd653df903812d0a026806d655b760e8de857b"
   onCallSupport:
     - (111)111-2230
     - (111)111-2231
