@@ -1,10 +1,10 @@
 build:
-  version: "3.0.1"
+  version: "3.0.2"
 loans:
-  message: "Welcome to Eazy Bank loans related to APIs"
+  message: "Welcome to Eazy Bank loans related to Docker APIs"
   contactDetails:
     name: "Dina Dom - Developer"
     email: "dina.dom@test3.com"
   onCallSupport:
-    - (333)333-1111
-    - (333)333-1112
+    - (333)333-1113
+    - (333)333-1114
