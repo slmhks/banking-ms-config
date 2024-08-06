@@ -1,7 +1,7 @@
 build:
   version: "3.0.2"
 loans:
-  message: "Welcome to Eazy Bank loans related to Docker APIs"
+  message: "Welcome to Eazy Bank loans related to DOCKER APIs"
   contactDetails:
     name: "Dina Dom - Developer"
     email: "dina.dom@test3.com"

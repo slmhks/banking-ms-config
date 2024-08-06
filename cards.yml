@@ -1,7 +1,7 @@
 build:
   version: "3.0.2"
 cards:
-  message: "Welcome to the Eazy Bank cards related to Docker APIs"
+  message: "Welcome to the Eazy Bank cards related to DOCKER APIs"
   contactDetails:
     name: "George Card"
     email: "george.card@test3.com"
