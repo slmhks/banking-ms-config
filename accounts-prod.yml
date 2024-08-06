@@ -1,7 +1,7 @@
 build:
   version: "1.0.5"
 accounts:
-  message: "Hey, welcome to Eazy Bank Accounts APIs related to Webhooks Environment!"
+  message: "Hey, welcome to Eazy Bank Accounts APIs related to Docker Production Environment!"
   contactDetails:
     name: "Romeo Pair - Product Owner"
     email: "{cipher}bdf47102a533fc63eda770e22bca840cc6937dc163e0b52d244dbbcbfcdd653df903812d0a026806d655b760e8de857b"
